@@ -43,6 +43,20 @@ La experiencia podría incluir curvas de nivel, referencias de elevación y zona
 - **Formación técnica:** reconocimiento de espacios, equipos y situaciones de trabajo.
 - **Capacitación:** familiarización con escenarios y discusión de decisiones en actividades simuladas.
 
+## Participación propuesta de la carrera de Ventas
+
+**Línea propuesta: experiencias inmersivas para formación en ventas y comercialización de capacitación con VR.**
+
+Se propone integrar a docentes y estudiantes de Ventas tanto en la definición de experiencias formativas como en la presentación de la futura oferta a empresas.
+
+- Proponer escenarios virtuales para practicar atención al cliente, presentación de productos y negociación.
+- Identificar necesidades y públicos para las experiencias de capacitación inmersiva, incluidas las de topografía y formación técnica.
+- Elaborar propuestas de valor y demostraciones comerciales que comuniquen los usos educativos de cada experiencia.
+
+La selección de escenarios y su alcance quedarían sujetos a revisión con el Dr. Holguín y los docentes participantes.
+
+**Referencia del perfil:** [TSU en Ventas · UTLD](https://www.utlagunadurango.edu.mx/general-clean-3).
+
 ## Relación con otras iniciativas
 
 El proyecto puede aportar escenarios y recursos visuales a [Robótica Aplicada a la Minería](https://github.com/vicktor27/Robotica-Aplicada-Mineria) y vincularse con experiencias educativas del [Cuerpo Académico de Robótica Industrial](https://github.com/vicktor27/-CA-Robotica-Industrial.).
