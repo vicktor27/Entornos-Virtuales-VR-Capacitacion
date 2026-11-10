@@ -19,6 +19,13 @@ La iniciativa contempla modelos topográficos, espacios virtuales de práctica y
 
 Desarrollar experiencias virtuales interactivas para apoyar la comprensión espacial, la exploración de entornos y la práctica de actividades de formación y capacitación técnica.
 
+## Líneas de investigación y ejes
+
+- **Líneas de investigación:** **PENDIENTES POR DEFINIR**
+- **Ejes:** **PENDIENTES POR DEFINIR**
+
+Las propuestas de esta presentación son ideas para discusión; no constituyen líneas de investigación ni ejes acordados.
+
 ## Proyectos propuestos
 
 | Proyecto | Idea central | Resultado inicial propuesto |
@@ -45,7 +52,7 @@ La experiencia podría incluir curvas de nivel, referencias de elevación y zona
 
 ## Participación propuesta de la carrera de Ventas
 
-**Línea propuesta: experiencias inmersivas para formación en ventas y comercialización de capacitación con VR.**
+**Posible aportación de Ventas: experiencias inmersivas para formación en ventas y comercialización de capacitación con VR.**
 
 Se propone integrar a docentes y estudiantes de Ventas tanto en la definición de experiencias formativas como en la presentación de la futura oferta a empresas.
 
